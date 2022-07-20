@@ -1,0 +1,11 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\5\vb\TemperaturaVB\TemperaturaVB\obj\Debug\TemperaturaVB.vbprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\5\vb\TemperaturaVB\TemperaturaVB\obj\Debug\TemperaturaVB.frmTemperatura.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\5\vb\TemperaturaVB\TemperaturaVB\obj\Debug\TemperaturaVB.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\5\vb\TemperaturaVB\TemperaturaVB\obj\Debug\TemperaturaVB.vbproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\5\vb\TemperaturaVB\TemperaturaVB\bin\Debug\TemperaturaVB.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\5\vb\TemperaturaVB\TemperaturaVB\bin\Debug\TemperaturaVB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\5\vb\TemperaturaVB\TemperaturaVB\bin\Debug\TemperaturaVB.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\5\vb\TemperaturaVB\TemperaturaVB\bin\Debug\TemperaturaVB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\5\vb\TemperaturaVB\TemperaturaVB\obj\Debug\TemperaturaVB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\5\vb\TemperaturaVB\TemperaturaVB\obj\Debug\TemperaturaVB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\5\vb\TemperaturaVB\TemperaturaVB\obj\Debug\TemperaturaVB.pdb
